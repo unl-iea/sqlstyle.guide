@@ -1,4 +1,4 @@
-# SQL style guide
+# SQL style guide (IEA Version)
 
 ## Overview
 

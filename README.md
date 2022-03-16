@@ -12,7 +12,7 @@ branch.
 
 ## Sources
 
-The markdown source for the guide can be found in [_includes/sqlstyle.guide.md][md]
+The markdown source for the guide can be found in [_includes/sqlstyle.guide.md](_includes/sqlstyle.guide.md)
 
 ## Installing for local development
 

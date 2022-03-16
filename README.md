@@ -1,6 +1,6 @@
 # SQL style guide
 
-**[☛ Read the guide](http://www.sqlstyle.guide)**
+**[☛ Read the *original* guide](http://www.sqlstyle.guide)**
 
 ---
 
